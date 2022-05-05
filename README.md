@@ -9,4 +9,5 @@
 1. Windows 10 Pro
 2. Procesador Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz 3.40 GHz
 3. RAM 8.00 GB
-Este es el repositorio de la clase de Bioinformática semestre 2022-1
+## EJECUCIÓN 
+En este repositorio se tienen almacenados las tareas, data y examenes de la clase de Bioinformática
