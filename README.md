@@ -11,3 +11,5 @@
 3. RAM 8.00 GB
 ## EJECUCIÓN 
 En este repositorio se tienen almacenados las tareas, data y examenes de la clase de Bioinformática
+Uso de Gibhub texto para control de la versión
+
